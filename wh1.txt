@@ -484,7 +484,7 @@
             "filterable" : 1,
             "ext" : "./py/py_bilibili.py"
         }
-   }
+   
   ],
   "lives": [
     {
