@@ -115,16 +115,6 @@
       "ext":"https://www.fantuanhd.com"
     },
     {
-      "key":"Tian",
-      "name":"🆗天天",              
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"bdc1c75081e5e477189a463baa47e392"
-    },
-    {
       "key":"csp_YQKAPP",
       "name":"🌎一起看TV",
       "type":3,
