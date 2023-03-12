@@ -8,7 +8,7 @@
 
     {
       "key":"csp_sp_酷云七七",
-      "name":"💖黄金苹果影视💖",
+      "name":"👒酷云七七",
       "type":3,
       "api":"csp_Kunyu77",
       "searchable":1,
@@ -113,6 +113,16 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://www.fantuanhd.com"
+    },
+    {
+      "key":"Tian",
+      "name":"🆗天天",              
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"bdc1c75081e5e477189a463baa47e392"
     },
     {
       "key":"csp_YQKAPP",
