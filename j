@@ -63,7 +63,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext": "https://www.bulei.cc"
+      "ext": "https://www.bulei.cc",
+      "jar": "https://notabug.org/wuheng40/wh/raw/jd2/jar/bl.jar"
     },
     {
       "key":"csp_Xinsj",
@@ -73,7 +74,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://www.6080dy2.com"
+      "ext":"https://www.6080dy2.com",
+      "jar": "https://notabug.org/wuheng40/wh/raw/jd2/jar/xsj.jar"
     },
     {
       "key":"csp_Yht",
