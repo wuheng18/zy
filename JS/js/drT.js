@@ -1,7 +1,3 @@
-// drT.js
-// 2022/09/30 write by hjdhnx
-// Licensed under the MIT license.
-
 (function () {
     "use strict";
 
