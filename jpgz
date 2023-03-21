@@ -7,8 +7,8 @@
       "sites": [ 
 
 {
-		"key": "py_alist1",
-		"name": "🖥网盘1",
+		"key": "py_alist",
+		"name": "🖥网盘",
 		"type": 3,
 		"api": "py_alist",
 		"searchable": 0,
@@ -405,7 +405,7 @@
 		"key": "py_alist0",
 		"name": "🖥网盘2",
 		"type": 3,
-		"api": "py_alist",
+		"api": "py_alist0",
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
