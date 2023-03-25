@@ -36,5 +36,10 @@
 {"name": "月光宝盒1",     "url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/tvlive.txt"},
 {"name": "月光宝盒2",     "url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt"},
 {"name": "月光宝盒3",     "url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/zlive.txt"},
-{"name": "月光宝盒4",     "url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/everydaytv.txt"}
+{"name": "月光宝盒4",     "url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/everydaytv.txt"},
+{"name": "月光宝盒5",     "url": "https://jihulab.com/ygbh1/box/-/raw/main/ZB/ZB.txt"},
+{"name": "月光宝盒6",     "url": "https://jihulab.com/ygbh1/box/-/raw/main/ZB/ZB_BHZB_.txt"},
+{"name": "月光宝盒7",     "url": "https://jihulab.com/ygbh1/box/-/raw/main/ZB/live.txt"},
+{"name": "月光宝盒8",     "url": "https://jihulab.com/ygbh1/box/-/raw/main/ZB/zlive.txt"},
+{"name": "月光宝盒9",     "url": "https://jihulab.com/ygbh1/box/-/raw/main/BHZB.txt"}
 ]
