@@ -75,8 +75,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://v.bulei.cc",
-      "jar": "https://notabug.org/wuheng40/wh/raw/jd2/jar/bl.jar"
+      "ext": "https://v.bulei.cc"
     },
     {
       "key":"csp_Xinsj",
