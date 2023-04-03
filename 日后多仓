@@ -1,0 +1,24 @@
+{
+"storeHouse": [
+        {
+            "sourceName": "日后①号仓",
+            "sourceUrl": "https://notabug.org/wuheng40/wh/raw/jd/01.webp"
+        },
+        {
+            "sourceName": "日后②号仓",
+            "sourceUrl": "http://rihou.cc/日后多仓/仓库②"
+        },
+        {
+            "sourceName": "日后③号仓",
+            "sourceUrl": "http://rihou.cc/日后多仓/仓库③"
+        },
+        {
+            "sourceName": "日后④号仓",
+            "sourceUrl": "http://rihou.cc/日后多仓/仓库④"
+        },
+        {
+            "sourceName": "日后⑤号仓",
+            "sourceUrl": "http://rihou.cc/日后多仓/仓库⑤"
+        }
+    ]
+}
