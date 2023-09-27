@@ -60,7 +60,7 @@
 
 {"key": "csp_Anime1","name": "🏅VIP┃🐾日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable": 1},
 
-{"key": "csp_Ysj","name": "🏅VIP┃🎀异世界动漫","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1},
+{"key": "csp_Ysj","name": "🏅VIP┃🎀异世界动漫","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1 ,"changeable": 1},
 
     {
       "key": "腾讯1",
