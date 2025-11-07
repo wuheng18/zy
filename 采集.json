@@ -491,16 +491,199 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "国产麻豆",
-            "name": "✨Aries|国产麻豆✨",
+{
+      "key": "采集G(美少女)",
+      "name": "美少女",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php ",
+      "searchable": 1,
+      "changeable": 1
+    },
+       {
+            "key": "小米视频",
+            "name": "小米视频",
+            "jar": "./jar/vertex_shader_es2.glsl",
             "type": 3,
-            "playerType": 2,
             "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/国产麻豆.json"
+            "ext": {
+                "分类url": "https://dyn.xmsp3.lol/cn/home/web/index.php/vod/show/id/{cateId}/page/{catePg}.html;;z",
+                "分类": "国产视频$20#日韩有码$21#日韩无码$22#制服学生$23#动漫卡通$24#欧美变态$25#三级伦理$26"           
+            }
+        },
+        {
+            "key": "咸鱼传媒",
+            "name": "咸鱼传媒",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://nta.xycm9.makeup/vodtype/{cateId}-{catePg}.html;;z",
+                "分类": "国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27"             
+            }
+        },
+        {
+            "key": "4K影色",
+            "name": "4K影色",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://yaf.4kys6.fit/vodtype/{cateId}-{catePg}.html;;z",
+                "分类": "国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27"           
+            }
+        },
+        {
+            "key": "小黄书",
+            "name": "小黄书",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://vge.xhs2.yachts/vodtype/{cateId}-{catePg}.html;;z",
+                "分类": "绝美少女$20#激情口交$21#亚洲日韩$22#人妖激情$23#重咸口味$24#国产专区$25#日韩专区$26#欧美专区$27#卡通动漫$28#三级伦理$29"           
+            }
+        },
+        {
+            "key": "销魂洞",
+            "name": "销魂洞",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://wst.cz189.yachts/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类": "自拍偷拍$20#巨乳波霸$21#强奸乱伦$22#人妻熟女$23#制服丝袜$24#花季少女$25#无码露毛$26#群P多人$27#人兽人妖$28#男同女同$29#韩日专区$30#欧美色情$31#成人动漫$32#三级剧情$33"           
+            }
+        },
+        {
+            "key": "夜色撩人",
+            "name": "夜色撩人",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://eip.fnxym7.quest/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类": "熟母少妇$20#网红直播$21#自拍偷拍$22#强奸乱伦$23#高清国产$24#韩国专区$25#日本有码$26#日本无码$27#欧美情色$28#动漫卡通$29#三级伦理$30"           
+            }
+        },
+        {
+            "key": "欢乐场",
+            "name": "欢乐场",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://blz.hlc9.hair/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类": "女神学生$21#美女直播$22#人妻系列$23#强奸乱伦$24#自拍偷拍$25#制服诱惑$26#巨乳系列$27#自慰系列$28#国产视频$29#无码视频$30#有码视频$31#中文字幕$32#日韩精品$33#欧美精品$34#动漫精品$35#三级伦理$36"           
+            }
+        },
+        {
+            "key": "4K岛国",
+            "name": "4K岛国",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://dah.4kdg7.work/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类": "女神学生$21#美女直播$22#人妻系列$23#强奸乱伦$24#自拍偷拍$25#制服诱惑$26#巨乳系列$27#自慰系列$28#国产视频$29#无码视频$30#有码视频$31#中文字幕$32#日韩精品$33#欧美精品$34#动漫精品$35#三级伦理$36"           
+            }
+        },
+        {
+            "key": "飞机视频",
+            "name": "飞机视频",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://rdu.fjsp9.autos/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类": "主播网红$20#偷拍自拍$21#人妻熟女$22#强奸乱伦$23#制服丝袜$24#自慰变态$25#国产精品$26#亚洲情色$27#卡通动漫$28#三级伦理$29#欧美精品$30"           
+            }
+        },
+        {
+            "key": "桃花浪",
+            "name": "桃花浪",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://drg.thl3.quest/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类": "国产精品$20#主播大秀$21#抖阴视频$22#女神学生$23#美熟少妇$24#娇妻素人$25#空姐模特$26#国产乱伦$27#自慰群交$28#野合车震$29#职场同事$30#国产名人$31#日本无码$32#精品三级$33"           
+            }
+        },
+        {
+            "key": "木头人",
+            "name": "木头人",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://bvm.mtr2.pics/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类": "亚洲情色$20#强奸乱伦$21#偷拍自拍$22#风骚寡妇$23#制服师生$24#欧美性爱$25#JAV高清$26#VR虚拟$27#人兽$28#人妖$29#男同$30#女同$31#动漫$32#三级伦理$33"           
+            }
+        },
+        {
+            "key": "悟空视频",
+            "name": "悟空视频",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://quf.wksp7.ink/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类": "无码视频$20#强奸乱伦$21#人妻巨乳$22#国产视频$23#制服师生$24#有码视频$25#调教变态$26#出轨偷拍$27#三级伦理$28"           
+            }
+        },
+        {
+            "key": "含羞草AV",
+            "name": "含羞草AV",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://skw.hxcav4.life/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类": "国产自拍$20#制服丝袜$21#强奸乱伦$22#教师学生$23#素人系列$24#人妻熟女$25#日韩无码$26#日韩有码$27#中文字幕$28#欧美风情$29#经典伦理$30#卡通动漫$31"           
+            }
+        },
+        {
+            "key": "男人天堂",
+            "name": "男人天堂",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://cao.nrtt6.homes/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类": "国产自拍$20#强奸乱伦$21#男同女同$22#重口味$23#日本AV$24#无码视频$25#有码视频$26#中文字幕$27#欧美极品$28#三级伦理$29#动漫精品$30"           
+            }
+        },
+        {
+            "key": "嫩淫阁",
+            "name": "嫩淫阁",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://jpv.nyg7.homes/vodtype/{cateId}-{catePg}.html;;z",
+                "分类": "国产精品$20#主播大秀$21#抖阴视频$22#女神学生$23#美熟少妇$24#娇妻素人$25#空姐模特$26#国产乱伦$27#自慰群交$28#野合车震$29#职场同事$30#国产名人$31#日本无码$32#精品三级$33"           
+            }
+        },
+        {
+            "key": "极乐门",
+            "name": "极乐门",
+            "jar": "./jar/vertex_shader_es2.glsl",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://isz.jlm4.wiki/cn/home/web/index.php/vod/type/id/cateId}/page/{catePg}.html;;z",
+                "分类": "亚洲情色$20#制服师生$21#卡通动漫$22#强奸乱伦$24#中文字幕$26#偷拍自拍$25#欧美性爱$27#人妻熟女$28#无码专区$29#三级伦理$23"           
+            }
         }
-    ]
-}
+],
+"rules":[{"name":"磁力广告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","直播","更新","社区","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},{"name":"农民","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},{"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]},{"name":"饭团点击","hosts":["dadagui","freeok","dadagui"],"script":["document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();"]},{"name":"毛驴点击","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]},{"name":"ofiii","hosts":["www.ofiii.com"],"script":["constplay=document.getElementsByClassName('play_icon')[0],event=newMouseEvent('click',{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"]}],
+"doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
+  "hosts": [
+    "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+    "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+    "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+    "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+    "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"],
+"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
