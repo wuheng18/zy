@@ -1,5 +1,76 @@
 {
+    "spider": "./jar/xyqxbpq.jar",
     "sites": [
+        {
+            "key": "3Q",
+            "name": "🎞️3Q｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/3Q.json"
+        },
+        {
+            "key": "555｜影视",
+            "name": "🎞️555｜APP",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/xbpq_555App.json"
+        },
+        {
+            "key": "泥视频",
+            "name": "🎞️泥视频｜drpy_js",
+            "type": 3,
+            "api": "https://ricolj.github.io/zy/mb/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/泥视频.js"
+        },
+        {
+            "key": "4K影视",
+            "name": "🎞️4K｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/4K影视.json"
+        },
+        {
+            "key": "飞流视频",
+            "name": "🎞️飞流｜视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/飞流视频.json"
+        },
+        {
+            "key": "LIBVIO-xyq",
+            "name": "🎞️LIBVIO｜XYQ",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/LIBVIO-xyq.json"
+        },
+        {
+            "key": "影视大全",
+            "name": "🎞️大全｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/影视大全.json"
+        },
         {
             "key": "03",
             "name": "360┃资源",
