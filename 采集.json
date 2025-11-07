@@ -490,6 +490,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "国产麻豆",
+            "name": "✨Aries|国产麻豆✨",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/国产麻豆.json"
         }
     ]
 }
