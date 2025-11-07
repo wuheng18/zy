@@ -1,5 +1,5 @@
 {
-"spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/wuheng18/zy/refs/heads/master/py/vox.jar",
+"spider": "./py/vox.jar",
     "sites": [
     {
             "key": "海狗视频",
